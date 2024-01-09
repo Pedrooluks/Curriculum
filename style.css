@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: red;
+
+}
+
+ul {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 20px;
+    list-style-type: circle;
+    padding-left:50px;
+}
+
+h2 {
+    padding-left: 25%;
+}
